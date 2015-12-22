@@ -3,9 +3,9 @@ Projects from Code Path University's Intro to IOS Class
 
 Submitted by: Corey Salzer
 
-Project User Stories and Video Walkthroughs
+## Project User Stories and Video Walkthroughs
 
-## Pre-Work - Tip Calculator
+### Pre-Work - Tip Calculator
 
 The following **required** functionality is complete:
 
